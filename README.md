@@ -5,7 +5,7 @@ Feel free to test and lmk in the issues
 # Tutorial
 If you already have python installed, clone this repo with git clone https://github.com/tHeFinAlGoaT/Rbx-Flip-Sniper and do cd  Rbx-Flip-Sniper<br/>
 Then put your auth token in the token = ' ' variable. (inside the main.py file). <br/>
-To find it go into bloxflip, press f12 and on the network tab and select Fetch/XHR. Now select the balance request  <br/>
+To find it go into bloxflip, press f12 and on the network tab select Fetch/XHR. Now select the balance request  <br/>
 (or any other POST request if you know what they are) and scroll down a bit. You will see a very long string, that's your token.  <br/>
 Copy the Bearer part to. Your token should look like: 'Bearer eyJhbGciOenfhnejfnubdhswfnuwnfinufwidnsbfusnfudhfudjfudh'<-not a real token <br/>
 Once done save the edited main.py with ctrl + s and execute the following command: pip install -r requirements.txt <br/>
