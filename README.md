@@ -10,3 +10,5 @@ To find it go into bloxflip, press f12 and on the network tab and select Fetch/X
 Copy the Bearer part to. Your token should look like: 'Bearer eyJhbGciOenfhnejfnubdhswfnuwnfinufwidnsbfusnfudhfudjfudh' <--not a real token <br/>
 Once done save the edited main.py with ctrl + s and execute the following command: pip install -r requirements.txt <br/>
 Last, launch the main file with python main.py
+# Tutorial 
+If this gets to 5 stars i'll make a better readme and improve the sniper
