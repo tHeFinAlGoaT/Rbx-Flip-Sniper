@@ -13,4 +13,4 @@ Last, launch the main file with python main.py
 # Objective 
 If this gets to 5 stars i'll make a better readme and improve the sniper
 # Notes
-This thing chooses to buy an item by its rate $/1k robux. You can change it in the 18th line, just modify the 1.8 to the rate you want the bot to snipe
+This thing chooses to buy an item by its rate $/1k robux. You can change it in the 18th line, just modify the 1.8 to the rate an item should have for the bot to snipe it
