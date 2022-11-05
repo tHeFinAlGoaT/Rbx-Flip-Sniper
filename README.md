@@ -15,7 +15,8 @@ Not sure how to get that? i Gotchu <br/>
 <hr>
 
 
-Go into your [RBX Flip](https://www.rbxflip.com/) <br/>
-Press right click -> inspect or f12 <br>
-Head to the network tab <br/>
-![here](Sniper_Imgs/network.png)
+1. Go into your [RBX Flip](https://www.rbxflip.com/) <br/>
+2. Press right click -> inspect or f12 <br>
+3. Head to the network tab <br/>
+![here](Sniper_Imgs/network.png) <br/>
+If you can't see it, press the 3 arrows and then select it or resize the dev console <br>
