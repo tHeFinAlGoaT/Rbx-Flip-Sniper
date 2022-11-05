@@ -25,4 +25,15 @@ If you can't see it, press the 2 arrows ```>>``` and then select it or resize th
 5. Reload the page
 6. Press on ```user``` and copy whatever comes after ```Authorization: ``` <br/>
 7. ![here](Sniper_Imgs/auth.png) <br/>
-8. Paste in in between the ```''``` in the ```main.py``` file
+8. Paste in in between the ```''``` in the ```main.py``` file <br/>
+
+#FAQ
+
+Nobody actually asked this, but i'll still answer <br/>
+1. Is this a logger? <br/>
+-Nope, check the source code. It's only 25 lines of simple python <br/>
+2. How can I change the rate i want an item to have to buy it? <br/>
+-
+
+
+
