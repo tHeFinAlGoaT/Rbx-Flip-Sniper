@@ -13,4 +13,5 @@ Not sure how to get that? i Gotchu <br/>
 <hr>
 
 
-Go into your [RBX Flip](https://www.rbxflip.com/)
+Go into your [RBX Flip](https://www.rbxflip.com/) 
+Press right click -> inspect or f12
