@@ -34,7 +34,7 @@ Nobody actually asked this, but i'll still answer <br/>
 1. Is this a logger? <br/>
 - Nope, check the source code. It's only 25 lines of simple python <br/>
 2. How can I change the rate i want an item to have to buy it? <br/>
-- Line 18 of the code. 
+- Line 18 of the code. ```if 0.1 <= value['rate'] <= 1.8``` this will buy items with a rate between 0.1 and 1.8; adjust the values as you'd like
 
 
 
