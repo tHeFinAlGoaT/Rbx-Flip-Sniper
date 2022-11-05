@@ -6,6 +6,8 @@ This is a PoC for sniping limited items with a low $/1k robux rate in RBX Flip m
 To install this program locally execute the following commands: <br/>
 ```
 git clone https://github.com/tHeFinAlGoaT/Rbx-Flip-Sniper
+```
+```
 cd Rbx-Flip-Sniper
 ```
 Once you've done that, put your auth token in the ```Token = ''``` variable <br/>
