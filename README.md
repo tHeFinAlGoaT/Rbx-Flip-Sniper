@@ -16,7 +16,9 @@ Not sure how to get that? i Gotchu <br/>
 
 
 1. Go into your [RBX Flip](https://www.rbxflip.com/) <br/>
-2. Press right click -> inspect or f12 <br>
+2. Press right click -> inspect or f12 <br/>
 3. Head to the network tab <br/>
 ![here](Sniper_Imgs/network.png) <br/>
-If you can't see it, press the 3 arrows and then select it or resize the dev console <br>
+If you can't see it, press the 2 arrows ```>>``` and then select it or resize the dev console <br/>
+4. Press Fetch/XHR <br/>
+![here](Sniper_Imgs/fetch_xhr.png) <br>
