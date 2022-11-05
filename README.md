@@ -8,7 +8,10 @@ To install this program locally execute the following commands: <br/>
 git clone https://github.com/tHeFinAlGoaT/Rbx-Flip-Sniper
 cd Rbx-Flip-Sniper
 ```
-Once you've done that, put your auth token in the ```Token = ''``` variable
+Once you've done that, put your auth token in the ```Token = ''``` variable <br/>
+Not sure how to get that? i Gotchu <br/>
+Go into your [RBX Flip](https://www.rbxflip.com/)
+
 # Objective 
 If this gets to 5 stars i'll make a better readme and improve the sniper
 # Notes
