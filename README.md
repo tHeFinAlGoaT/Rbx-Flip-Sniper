@@ -11,7 +11,6 @@ cd Rbx-Flip-Sniper
 Once you've done that, put your auth token in the ```Token = ''``` variable <br/>
 Not sure how to get that? i Gotchu <br/> 
 <hr>
-<hr/>
-<p>
+
+
 Go into your [RBX Flip](https://www.rbxflip.com/)
-</p>
