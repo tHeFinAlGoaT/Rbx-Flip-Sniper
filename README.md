@@ -28,7 +28,7 @@ If you can't see it, press the 2 arrows ```>>``` and then select it or resize th
 7. ![here](Sniper_Imgs/auth.png) <br/>
 8. Paste in in between the ```''``` in the ```main.py``` file <br/>
 
-#FAQ
+# FAQ
 
 Nobody actually asked this, but i'll still answer <br/>
 1. Is this a logger? <br/>
