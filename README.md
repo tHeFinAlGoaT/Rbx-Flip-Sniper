@@ -22,3 +22,6 @@ Not sure how to get that? i Gotchu <br/>
 If you can't see it, press the 2 arrows ```>>``` and then select it or resize the dev console <br/>
 4. Press Fetch/XHR <br/>
 ![here](Sniper_Imgs/fetch_xhr.png) <br>
+5. Reload the page
+6. Press on ```user``` and copy whatever comes after ```Authorization: ```
+7. Paste in in between the ```''``` in the ```main.py``` file
