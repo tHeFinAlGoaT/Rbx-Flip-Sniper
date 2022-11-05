@@ -11,7 +11,7 @@ git clone https://github.com/tHeFinAlGoaT/Rbx-Flip-Sniper
 ```
 cd Rbx-Flip-Sniper
 ```
-Once you've done that, put your auth token in the ```Token = ''``` variable <br/>
+Once you've done that, put your auth token in the ```Token = ''``` (Line 11) variable <br/>
 Not sure how to get that? i Gotchu <br/> 
 <hr>
 
@@ -34,7 +34,7 @@ Nobody actually asked this, but i'll still answer <br/>
 1. Is this a logger? <br/>
 - Nope, check the source code. It's only 25 lines of simple python <br/>
 2. How can I change the rate i want an item to have to buy it? <br/>
-- Line 18 of the code.
+- Line 18 of the code. 
 
 
 
