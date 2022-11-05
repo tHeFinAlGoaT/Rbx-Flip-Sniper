@@ -15,4 +15,5 @@ Not sure how to get that? i Gotchu <br/>
 
 Go into your [RBX Flip](https://www.rbxflip.com/) <br/>
 Press right click -> inspect or f12 <br>
-
+Head to the network tab <br/>
+<img href=Sniper
