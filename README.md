@@ -1,7 +1,7 @@
 # Rbx-Flip-Sniper
 This is a PoC for sniping limited items with a low $/1k robux rate in RBX Flip marketplace
 # Requirements
-[Python 3.x](https://python.org)
+[Python 3.x](https://www.python.org/downloads/release/python-3110/)
 # Tutorial
 To install this program locally execute the following commands: <br/>
 ```
