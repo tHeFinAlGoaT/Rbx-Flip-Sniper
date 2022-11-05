@@ -1,5 +1,6 @@
 # Rbx-Flip-Sniper
-This is a PoC for sniping limited items with a low $/1k robux rate in RBX Flip marketplace
+This is a PoC for sniping limited items with a low $/1k robux rate in RBX Flip marketplace. <br/>
+This is my first project and a PoC, so please help me improve this code if you can! 
 # Requirements
 [Python 3.x](https://www.python.org/downloads/release/python-3110/)
 # Tutorial
@@ -31,9 +32,9 @@ If you can't see it, press the 2 arrows ```>>``` and then select it or resize th
 
 Nobody actually asked this, but i'll still answer <br/>
 1. Is this a logger? <br/>
--Nope, check the source code. It's only 25 lines of simple python <br/>
+- Nope, check the source code. It's only 25 lines of simple python <br/>
 2. How can I change the rate i want an item to have to buy it? <br/>
--
+- Line 18 of the code.
 
 
 
