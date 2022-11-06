@@ -38,6 +38,6 @@ Nobody actually asked this, but i'll still answer <br/>
 3. How can i make this faster? <br>
 - Line 42  in main.py. ```time.sleep(10)``` 10 is a value in seconds. Lower it and the sniper will work faster. DON'T GO BELOW 0.8 for API reasons
 4. Where do i suggest new features?
-- You can do that in the [issues]() or in the [discussions]() tabs
+- You can do that in the [issues](https://github.com/tHeFinAlGoaT/Rbx-Flip-Sniper/issues/new) or in the [discussions]() tabs
 
 
