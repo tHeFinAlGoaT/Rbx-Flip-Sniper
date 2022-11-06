@@ -25,7 +25,7 @@ If you can't see it, press the 2 arrows ```>>``` and then select it or resize th
 ![here](Sniper_Imgs/fetch_xhr.png) <br/>
 5. Reload the page
 6. Press on ```user``` and copy whatever comes after ```Authorization: ``` <br/>
-7. ![here](Sniper_Imgs/auth.png) <br/>
+![here](Sniper_Imgs/auth.png) <br/>
 8. Paste in in between the ```''``` in the ```main.py``` file <br/>
 
 # FAQ
