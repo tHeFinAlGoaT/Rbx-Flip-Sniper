@@ -32,11 +32,12 @@ If you can't see it, press the 2 arrows ```>>``` and then select it or resize th
 
 Nobody actually asked this, but i'll still answer <br/>
 1. Is this a logger? <br/>
-- Nope, check the source code. It's only 25 lines of simple python <br/>
+- Nope, check the source code. It's only 40 lines of simple python <br/>
 2. How can I change the rate i want an item to have to buy it? <br/>
 - Line 18 in main.py. ```if 0.1 <= value['rate'] <= 1.8``` this will buy items with a rate between 0.1 and 1.8; adjust the values as you'd like
 3. How can i make this faster? <br>
 - Line 42  in main.py. ```time.sleep(10)``` 10 is a value in seconds. Lower it and the sniper will work faster. DON'T GO BELOW 0.8 for API reasons
-
+4. Where do i suggest new features?
+- You can do that in the [issues]() or in the [discussions]() tabs
 
 
